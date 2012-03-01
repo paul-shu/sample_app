@@ -1,4 +1,4 @@
-require 'spec/rails'
+#require 'rspec'
 
 describe PagesController do
 
