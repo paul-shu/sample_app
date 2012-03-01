@@ -1,4 +1,4 @@
-#require 'spec_helper'
+require 'spec/rails'
 
 describe PagesController do
 
